@@ -1,0 +1,16 @@
+[{
+    "nombre": "Coca-Cola",
+    "precio": 750,
+    "imagen": "",
+    "id": 1
+}, {
+    "nombre": "Sprite",
+    "precio": 700,
+    "imagen": "",
+    "id": 2
+}, {
+    "nombre": "Crush",
+    "precio": 650,
+    "imagen": "",
+    "id": 3
+}]
